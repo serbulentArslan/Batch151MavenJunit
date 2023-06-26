@@ -42,5 +42,7 @@ public class C01_BeforeClassAfterClass {
     public void test03() {
         System.out.println("test03");
 
+
+
     }
 }
